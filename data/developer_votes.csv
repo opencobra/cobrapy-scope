@@ -1,0 +1,9 @@
+"Flux Balance Analysis","Alternate optima","FBA with biological constraints","Gene perturbation","Strain design","Gene deletion design","Reaction addition design","Reaction perturbation design","Model refinement","Gap-filling","Objective function development","Thermodynamics","Loop removal","Thermodynamic parameter-based analysis","Regulatory methods","Regulatory Mechanisms","Constraints from 'omic data","Monte Carlo sampling","Network-based pathway analysis"
+"true","true","true","true","true","true","false","false","true","false","true","true","true","true","false","false","false","true","true"
+"true","true","false","true","false","false","false","false","true","false","false","false","true","false","false","false","false","false","false"
+"true","true","false","true","false","false","false","false","false","false","false","false","true","false","false","false","false","true","false"
+"true","true","true","true","false","true","true","true","false","false","false","false","true","false","false","false","false","true","true"
+"TRUE","TRUE","TRUE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"TRUE","TRUE","TRUE","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE","TRUE","FALSE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"yes","yes","no","yes","no","no","no","no","no","no","no","yes","yes","yes","no","no","no","yes","yes"
